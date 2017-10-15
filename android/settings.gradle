@@ -1,0 +1,3 @@
+rootProject.name = 'DEBUG_BRIDGE'
+
+include ':app'
